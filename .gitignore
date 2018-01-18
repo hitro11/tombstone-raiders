@@ -1,0 +1,21 @@
+#Ignore Debug/Optimization:
+#############################
+x64/
+
+#Ignore Projects:
+#############################
+.vcxproj
+.vcxproj.filters
+.vcxproj.user
+ProjectFoxtrot.vcxproj
+ProjectFoxtrot.vcxproj.filters
+ProjectFoxtrot.vcxproj.user
+ProjectFoxtrot1.vcxproj
+ProjectFoxtrot1.vcxproj.filters
+ProjectFoxtrot1.vcxproj.user
+
+#Ignore Doxygen:
+#############################
+ProjectFoxtrotDoxy
+html/
+latex/
